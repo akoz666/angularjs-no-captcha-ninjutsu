@@ -1,0 +1,32 @@
+{
+  "name": "angularjs-no-captcha-ninjutsu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dali Rekik (modified.dali.power@gmail.com)",
+  "license": "",
+  "devDependencies": {
+    "angular": "^1.3.9",
+    "angular-ui-router": "^0.2.13",
+    "bootstrap": "^3.3.1",
+    "delete": "^0.1.5",
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.4.3",
+    "gulp-jshint": "^1.9.0",
+    "gulp-minify-css": "^0.3.12",
+    "gulp-minify-html": "^0.1.8",
+    "gulp-plumber": "^0.6.6",
+    "gulp-uglify": "^1.0.2",
+    "gulp-usemin": "^0.3.11",
+    "ip": "^0.3.2"
+  },
+  "dependencies": {
+    "express": "^4.10.7",
+    "request": "^2.51.0"
+  },
+  "browser": {}
+}
